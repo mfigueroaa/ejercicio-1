@@ -1,0 +1,57 @@
+body{
+	background: url('IMAGENES/web/fondo.jpg') no-repeat center center fixed;
+	background-size: cover;
+	color: #ffffee;
+	font-family: 'Slabo 27px', serif;
+	margin: 0;
+	padding: 0;
+	text-align: justify;
+}
+
+#wrapper{
+	width: 90%;
+	height: auto;
+	margin: 0 auto;
+}
+
+#heading{
+	font-size: 48px;
+}
+
+#one{
+	width: 28.5%;
+	height: auto;
+	display: inline-block;
+	margin: 12px;
+	padding: 12px;
+	vertical-align: top;
+}
+
+#two{
+	width: 28.5%;
+	height: auto;
+	display: inline-block;
+	margin: 12px;
+	padding: 12px;
+	vertical-align: top;
+}
+
+#three{
+	width: 28.5%;
+	height: auto;
+	display: inline-block;
+	margin: 12px;
+	padding: 12px;
+	vertical-align: top;
+}
+
+img{
+	width: 100%;
+	border-radius: 200px;
+}
+
+h1{
+
+padding-top: 48px;
+}
+
